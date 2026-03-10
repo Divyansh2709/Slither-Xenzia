@@ -167,6 +167,7 @@ Plenty of room to evolve this little terminal reptile:
 # 👨‍💻 Contributors
 
 **Divyansh Gupta**
+
 **Harsh Agrahari**
 
 

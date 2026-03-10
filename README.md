@@ -178,5 +178,7 @@ Plenty of room to evolve this little terminal reptile:
 If you found this project helpful or interesting:
 
 ⭐ Star the repository
+
 🍴 Fork it and improve it
+
 🐛 Report issues or suggestions

@@ -34,11 +34,17 @@ Use W A S D to move
 # ✨ Features
 
 ✔ Smooth console rendering (reduced flickering)
+
 ✔ Snake grows when food is eaten
+
 ✔ Randomly generated obstacles
+
 ✔ Dynamic moving food system
+
 ✔ Real-time keyboard controls
+
 ✔ Score tracking system
+
 ✔ Game-over collision detection
 
 ---
